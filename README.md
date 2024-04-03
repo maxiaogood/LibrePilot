@@ -1,5 +1,5 @@
-# Explanation
-Because the original warehouse author has not been maintained for a long time, but I am still using this, and now fork this for basic maintenance
+# 说明
+因为原本的仓库作者已经很长时间没有维护，但我还在用这个，现在fork这个进行基础的维护
 
 
 About the LibrePilot Project
